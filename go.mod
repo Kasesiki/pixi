@@ -3,9 +3,9 @@ module pixi
 go 1.26rc1
 
 require (
-	github.com/Xiaxiaobaii/autotool v1.0.2
-	github.com/Xiaxiaobaii/lrys v1.0.0
-	github.com/Xiaxiaobaii/sqlite v1.0.1
+	github.com/Kasesiki/autotool v1.0.2
+	github.com/Kasesiki/lrys v1.0.0
+	github.com/Kasesiki/sqlite v1.0.1
 )
 
 require (
