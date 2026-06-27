@@ -1,4 +1,4 @@
-module pixi
+module github.com/Kasesiki/pixi
 
 go 1.26rc1
 
